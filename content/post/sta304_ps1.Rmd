@@ -18,7 +18,7 @@ library(plotly)
 
 Matthew Wankiewicz
 
-Code that supports this data analysis can be found [here](https://github.com/matthewwankiewicz/sta304ps1/blob/master/content/post/sta304_ps1.Rmd) 
+Code that supports this data analysis can be found here: https://github.com/matthewwankiewicz/sta304ps1/blob/master/content/post/sta304_ps1.Rmd
 
 # Abstract
 
