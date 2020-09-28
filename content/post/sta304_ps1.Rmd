@@ -18,7 +18,7 @@ library(plotly)
 
 Matthew Wankiewicz
 
-Code that supports this data analysis can be found [here](https://github.com/matthewwankiewicz/sta304ps1/blob/master/content/post/sta304_ps1.Rmd)
+Code that supports this data analysis can be found [here](https://github.com/matthewwankiewicz/sta304ps1/blob/master/content/post/sta304_ps1.Rmd) 
 
 # Abstract
 
@@ -156,7 +156,7 @@ ggplotly(plot2121)
 <div align="left">Although we had success with our observations and were able to find a relationship hidden in the data, there were some weaknesses encountered. Firstly, this dataset only looks at apartments that are larger than 3 storeys and have at least 10 units. These apartments usually aren't grouped in with larger apartments like the ones in the study because the owners are usually smaller landlords and don't have the same financial flexibility as the bigger landlords. The exemption of these apartments is valid but it leads to a gap in our results because there are many apartments available to rent that are smaller homes and the inclusion of these apartments could change our results. Another weakness in this study was that the distribution of apartments in the wards was not even. There were wards like ward 12 which had over 300 apartments evaluated while ward 23 had under 10 apartments included. The large difference in distributions impacts our results because when we try to classify wards by their average apartment score, a ward's score will be more volatile if it has fewer observations. We encounter this issue because we see from figures 1 and 4 that the apartments with fewer apartments rank higher than wards with more apartments. This could be solved by including more apartments as mentioned earlier because some wards are densely populated with houses and apartments in houses rather than large buildings. Lastly, we have to acknowledge that we don't fully know how the inspector arrives at a certain score or what the criteria are to score a perfect 5/5 in a category. This is an issue because one inspector can be more strict than others and that will cause scores to drop when that inspector assesses a building. The solution for this is to display the scoring scale so we can rule out the possibility of inspectors skewing results. 
   
 <div align="left">When looking to the future and our next steps, most of the tweaks are centred around the collection of observations. First, for the next study, I feel that smaller apartments should be included. If smaller apartments are included the number of observations for each ward could even out and we could get a clearer picture of the impact of age on the rating To complete this, apartments could be evaluated using the same scale but when inputted into the dataset there should be another variable telling us if it's larger or smaller. Another interesting question we can look to answer in the future is concerning the property type and its impact on its score. We did observe some data that looked like property type influenced score but with a larger dataset, we can find if that question has a definitive answer. Lastly, I would like to apply this data to rental prices as mentioned above. It would be an interesting study to see if older apartments are priced similarly to how they are scored.
-  
+
 # Citations
 
 This report used: @citetidyverse, @citeggplot2, @citeopendatato, @citeplotly
@@ -171,3 +171,5 @@ Keith, Elizabeth. "These Are The Toronto Neighbourhoods With The Cheapest Rent,
      
 McClelland, Colin. "Home prices to drop, new report predicts — and even 
      Toronto and Vancouver won't be immune." Financial Post. Financial Post
+     
+
