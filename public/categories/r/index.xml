@@ -6,13 +6,13 @@
     <description>Recent content in R on Matthew&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2020 21:13:14 -0500</lastBuildDate><atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Sep 2020 21:13:14 -0500</lastBuildDate><atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apartment Age is a Strong Predictor for Overall Quality</title>
-      <link>/2020/09/27/apartment-age-is-a-strong-predictor-for-overall-quality/</link>
-      <pubDate>Sun, 27 Sep 2020 21:13:14 -0500</pubDate>
+      <link>/2020/09/26/apartment-age-is-a-strong-predictor-for-overall-quality/</link>
+      <pubDate>Sat, 26 Sep 2020 21:13:14 -0500</pubDate>
       
-      <guid>/2020/09/27/apartment-age-is-a-strong-predictor-for-overall-quality/</guid>
+      <guid>/2020/09/26/apartment-age-is-a-strong-predictor-for-overall-quality/</guid>
       <description>Abstract The COVID-19 Pandemic has shifted people’s attention to renting rather than buying. In this paper, we explore the Apartment Building Evaluation dataset from the City of Toronto to measure the impact on apartment age to its score given by the city. We know that prices for apartments are falling and we need to find a way to determine which one’s are better to rent, especially with how quickly they go off the market.</description>
     </item>
     

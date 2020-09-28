@@ -2,7 +2,7 @@
 title: "Apartment Age is a Strong Predictor for Overall Quality"
 author: "Matthew Wankiewicz"
 bibliography: "references.bib"
-date: 2020-09-27T21:13:14-05:00
+date: 2020-09-26T21:13:14-05:00
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 ---
